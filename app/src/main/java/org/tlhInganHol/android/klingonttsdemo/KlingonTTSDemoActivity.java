@@ -1,4 +1,4 @@
-package org.tlhinganhol.android.klingonttsdemo;
+package org.tlhInganHol.android.klingonttsdemo;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.tlhinganhol.android.klingonttsdemo">
+    package="org.tlhInganHol.android.klingonttsdemo">
 
     <application
         android:allowBackup="true"

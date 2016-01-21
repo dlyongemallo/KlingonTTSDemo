@@ -1,4 +1,4 @@
-package org.tlhinganhol.android.klingonttsdemo;
+package org.tlhInganHol.android.klingonttsdemo;
 
 import org.junit.Test;
 
